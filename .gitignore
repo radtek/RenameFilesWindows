@@ -1,0 +1,16 @@
+*.suo
+*.exe
+*.ilk
+Debug/FileNameChanges.pdb
+*.db
+FileNameChanges/Debug/ChangeFileNames.obj
+*.obj
+FileNameChanges/Debug/FileNameChanges.log
+*.pch
+FileNameChanges/Debug/FileNameChanges.res
+*.tlog
+FileNameChanges/Debug/vc140.idb
+*.pdb
+*.rc
+FileNameChanges/ReadMe.txt
+*.ipch
